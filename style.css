@@ -134,6 +134,9 @@ button{
     color: white;
     border-radius: 15px;
 }
+.box-sub{
+    font-size: 22px;
+}
 .box-button{
     border-color: white;
     font-size: 26px;
